@@ -1,6 +1,6 @@
 # Doodle client
 
-Doodle is a React showcase app.
+Doodle is a React showcase app [https://doodle-from-google.netlify.com](https://doodle-from-google.netlify.com).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
